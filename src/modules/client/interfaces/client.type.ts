@@ -1,0 +1,1 @@
+export type ClientTableColumns = 'id' | 'docType' | 'docNum' | 'email' | 'customerId' | 'givenName' | 'familyName1' | 'phone';

@@ -1,0 +1,166 @@
+{
+  "clients": [
+    {
+      "_id": 555555,
+      "docType": "nif",
+      "docNum": "11223344E",
+      "email": "it@parlem.com",
+      "customerId": "11111",
+      "givenName": "Enriqueta",
+      "familyName1": "Parlem",
+      "phone": "668668668"
+    },
+    {
+      "_id": 555556,
+      "docType": "NIE",
+      "docNum": "12389412A",
+      "email": "prueba1@email.es",
+      "customerId": "11112",
+      "givenName": "Nombre prueba 1",
+      "familyName1": "Ninguna",
+      "phone": "698 489 465"
+    },
+    {
+      "_id": 555557,
+      "docType": "Passport",
+      "docNum": "83294128F",
+      "email": "prueba2@email.com",
+      "customerId": "11113",
+      "givenName": "Nombre prueba 2",
+      "familyName1": "Parlem",
+      "phone": "687 456 153"
+    },
+    {
+      "_id": 555558,
+      "docType": "NIF",
+      "docNum": "12839132C",
+      "email": "prueba3@email.es",
+      "customerId": "11114",
+      "givenName": "Nombre prueba 4",
+      "familyName1": "Cualquiera",
+      "phone": "+34 615 879 135"
+    },
+    {
+      "_id": 555559,
+      "docType": "nie",
+      "docNum": "38942432M",
+      "email": "prueba4@email.es",
+      "customerId": "11115",
+      "givenName": "Nombre prueba 5",
+      "familyName1": "Otro",
+      "phone": "945 481 082"
+    },
+    {
+      "_id": 555560,
+      "docType": "nif",
+      "docNum": "823472923N",
+      "email": "prueba5@email.es",
+      "customerId": "11117",
+      "givenName": "Nombre prueba 6",
+      "familyName1": "Parlem 2.0",
+      "phone": "945815546"
+    },
+    {
+      "_id": 55,
+      "docType": "nif",
+      "docNum": "93820498-J",
+      "email": "prueba6@email.es",
+      "customerId": "11118",
+      "givenName": "Enriqueta",
+      "familyName1": "Nombre prueba 7",
+      "phone": "68412181"
+    },
+    {
+      "_id": 555562,
+      "docType": "DNI",
+      "docNum": "391283019R",
+      "email": "prueba7@email.es",
+      "customerId": "11119",
+      "givenName": "Nombre prueba 8",
+      "familyName1": "Familia",
+      "phone": "78141565"
+    },
+    {
+      "_id": 555563,
+      "docType": "D.N.I",
+      "docNum": "123819238-N",
+      "email": "prueba9@email.es",
+      "customerId": "11120",
+      "givenName": "Nombre prueba 9",
+      "familyName1": "Parlem 3.0",
+      "phone": "612345678"
+    },
+    {
+      "_id": 555564,
+      "docType": "No tiene nif",
+      "docNum": "---",
+      "email": "prueba10@email.es",
+      "customerId": "11121",
+      "givenName": "Nombre prueba 10",
+      "familyName1": "Buscando...",
+      "phone": "+34 612 123 312"
+    }
+  ],
+  "products": [
+    {
+      "_id": 1111111,
+      "productName": "FIBRA 1000MB",
+      "mbSpeed": 1000,
+      "gbData": null,
+      "productTypeName": "ftth",
+      "numeracioTerminal": 933933933,
+      "soldAt": "2019-01-09 14:26:17",
+      "customerId": "11111"
+    },
+    {
+      "_id": 1111112,
+      "productName": "MOBIL 500GB",
+      "mbSpeed": null,
+      "gbData": 500,
+      "productTypeName": "4G",
+      "numeracioTerminal": 696696969,
+      "soldAt": "2020-08-01 18:30:27",
+      "customerId": "11111"
+    },
+    {
+      "_id": 1111113,
+      "productName": "PC de sobremesa",
+      "mbSpeed": null,
+      "gbData": null,
+      "productTypeName": "agth",
+      "numeracioTerminal": 12311231,
+      "soldAt": "2021-04-15 12:00:00",
+      "customerId": "11114"
+    },
+    {
+      "_id": 1111114,
+      "productName": "MOBIL 1TB",
+      "mbSpeed": null,
+      "gbData": 10000,
+      "productTypeName": "5G",
+      "numeracioTerminal": 696696969,
+      "soldAt": "2024-01-06 09:30:00",
+      "customerId": "11113"
+    },
+    {
+      "_id": 1111115,
+      "productName": "Portatil 16GB ram",
+      "mbSpeed": null,
+      "gbData": null,
+      "productTypeName": "fdsf",
+      "numeracioTerminal": 500004891,
+      "soldAt": "2022-03-03 22:45:57",
+      "customerId": "11117"
+    },
+    {
+      "_id": 1111116,
+      "productName": "Iphone",
+      "mbSpeed": null,
+      "gbData": 250,
+      "productTypeName": "5G",
+      "numeracioTerminal": 1879818415,
+      "soldAt": "2021-08-29 11:55:51",
+      "customerId": "11116"
+    }
+  ]
+}
